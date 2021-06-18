@@ -1,0 +1,5 @@
+git+https://github.com/bartosh/backtrader.git@ccxt
+numpy==1.20.3
+pandas==1.2.4
+ccxt==1.51.53
+matplotlib==3.2.2
